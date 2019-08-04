@@ -1,0 +1,33 @@
+God
+10:00 - Fairy Fire --> decrease armor/spell armor, Rock --> point missile aoe dmg
+9:00 - Summon
+8:00 - Flame Strike
+7:00 - Heal --> aoe
+6:00 - Siphon Mana --> close range
+5:00 - Clap
+4:00 - Summon II
+3:00 - Lightning Strike --> instant aoe dmg + knockback --> changes to Machtwort
+2:00 - Reset Cooldowns
+1:00 - Flame Strike changes to Rain Of Fire
+0:00 - ascension
+
+Elite Warriors --> 1x ankh
+10:00 - Heal/Mana Salve
+9:00 - Zap
+8:00 - Shadow Meld --> 50% dmg decrease
+6:30 - Shockwave or Dash
+5:00 - Divine Shield
+4:00 - Speed Buff Aoe
+3:00 - Heal (Wave?)
+2:00 - Reincarnation
+
+
+Spectral Servant
+10:00 - Dark Grip --> pulls single to caster
+9:00 - Fairy Fire or Cold Touch --> single melee slow
+8:00 - Shade Bomb --> burns mana and dispels
+7:00 - Summon Sea Elementar/Ghost
+6:00 - Blink or Tornado
+5:00 - Life Drain --> target cannot leave area range
+4:00 - Silence
+3:00 - Blizzard --> channeling aoe dmg + slow
